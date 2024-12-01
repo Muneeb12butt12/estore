@@ -1,0 +1,14 @@
+## Release v1.0
+### Features
+- Home, Products, Product Details, Contact Us, and Promotions pages fully functional.
+- Single CSS file for consistent styling across pages.
+- Responsive design for mobile and desktop screens.
+
+### Bug Fixes
+- Fixed alignment issues on the Products page.
+- Resolved form validation errors on the Contact Us page.
+- Updated images to reduce loading times.
+
+### Updates
+- Optimized website for deployment on GitHub Pages.
+- Added favicon for better branding.
